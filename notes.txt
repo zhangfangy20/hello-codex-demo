@@ -1,0 +1,7 @@
+This is a tiny practice project for Codex.
+
+Possible next steps:
+- explain the files
+- improve output format
+- change radius to user input
+- add a function
